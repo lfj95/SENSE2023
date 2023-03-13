@@ -4,7 +4,6 @@ Dataset and code for the practice
 
 | Time | Event     | Instructor     |
 | ---------- | :-----------:  | :-----------: |
-Machine Learning I
 | 9.00am-10.00am   | Machine Learning I     | David Hogg      |
 | ---------- | :-----------:  | :-----------: |
 | 10.00am-11.00am   | Machine Learning II     | David Hogg      |
